@@ -36,4 +36,4 @@ Accepts a Unix timestamp or a `Date` object.
 
 ## License
 
-MIT © [Kevin Martensson](http://github.com/kevva)
+MIT © [Kevin Martensson](https://github.com/kevva)
