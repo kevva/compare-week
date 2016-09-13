@@ -1,6 +1,6 @@
 # compare-week [![Build Status](https://travis-ci.org/kevva/compare-week.svg?branch=master)](https://travis-ci.org/kevva/compare-week)
 
-> Check if two dates is within the same week
+> Check if two dates are within the same week
 
 
 ## Install

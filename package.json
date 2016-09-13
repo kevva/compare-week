@@ -1,7 +1,7 @@
 {
   "name": "compare-week",
   "version": "1.0.0",
-  "description": "Check if two dates is within the same week",
+  "description": "Check if two dates are within the same week",
   "license": "MIT",
   "repository": "kevva/compare-week",
   "author": {
